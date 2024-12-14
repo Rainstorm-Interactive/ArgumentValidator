@@ -1,15 +1,12 @@
-<div style="text-align: center;">
-<h1>ArgumentValidator</h1>
+<div align="center">
 
-[![Get it on Roblox][mb-get-robloxdev]][link-robloxdev]
-[![Get it on Wally][mb-get-wally]][link-wally]
-<br>
+<h1>ArgumentValidator</h1>
 
 <b>ArgumentValidator</b> is an assertion function for type validation.
 
-</div>
-
 ---
+
+</div>
 
 ## Features
 - **Verbose Output:** Clear and informative error messages.
