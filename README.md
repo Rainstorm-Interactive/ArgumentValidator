@@ -48,7 +48,7 @@ end
 [repository-latest]:          https://github.com/theletron/ArgumentValidator/releases/latest
 [repository-license]:         ./LICENSE
 
-[mb-get-robloxdev]:           https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/roblox_dev-animated.svg
+[mb-get-robloxdev]:           https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/roblox_dev.svg
 [mb-download]:                https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/download.svg
 
 [link-robloxdev]:             https://create.roblox.com/store/asset/112775194829232/ArgumentValidator
