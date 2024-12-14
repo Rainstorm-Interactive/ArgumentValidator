@@ -17,14 +17,13 @@
 ---
 
 ## Installation
-### With Wally
+Get **ArgumentValidator** from the [Creator Store](link-robloxdev), or install the latest version from [here](repository-latest).
+
+### For Rojo/Wally users:
 Add **ArgumentValidator** to your Wally configuration (wally.toml) dependencies:
 ```toml
 argumentvalidator = "theletron/argumentvalidator@1.0.0"
 ```
-
-### Without Wally
-Get **ArgumentValidator** from the [Creator Store](link-robloxdev), or install the latest version from [here](repository-latest).
 
 ---
 
