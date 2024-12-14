@@ -10,11 +10,11 @@
 	
 	Version: 1.0.0
 	Date: 13/12/2024
-	Repository: https://github.com/Rainstorm-Interactive/ArgumentValidator
+	Repository: https://github.com/theletron/ArgumentValidator
 	
 	MIT License
 	
-	Copyright (c) 2024 Rainstorm Interactive
+	Copyright (c) 2024 theletron
 	
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
