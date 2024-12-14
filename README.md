@@ -45,7 +45,7 @@ end
 - `PrintHelloWithPrefix(123)` <br>
 **Output**: `Argument 'Prefix' only allows type 'string', got type 'number'`
 
-[repository-latest]:          https://github.com/Rainstorm-Interactive/ArgumentValidator/releases/latest
+[repository-latest]:          https://github.com/theletron/ArgumentValidator/releases/latest
 [repository-license]:         ./LICENSE
 
 [mb-get-robloxdev]:           https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/roblox_dev-animated.svg
