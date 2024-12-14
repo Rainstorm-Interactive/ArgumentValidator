@@ -7,6 +7,6 @@ authors = ["theletron"]
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
 repository = "https://github.com/Rainstorm-Interactive/ArgumentValidator"
-include = [ArgumentValidator.luau]
+include = ["ArgumentValidator.luau"]
 
 [dependencies]
