@@ -1,0 +1,12 @@
+[package]
+name = "theletron/argumentvalidator"
+description = "An assertion function for type validation"
+version = "1.0.0"
+license = "MIT"
+authors = ["theletron"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/Rainstorm-Interactive/ArgumentValidator"
+include = [ArgumentValidator.luau]
+
+[dependencies]
